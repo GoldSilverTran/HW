@@ -8,7 +8,7 @@ print('The length of your name is:')
 print(len(myName))  # [Kítựđặcbiệt+Chữ+Số+Dấucách, ò chỉ tính 1 kí tự o]
 print('Monster ảt ả t?! . 21 --> The length of this clause is:')
 print(len('Monster ảt ả t?! . 21'))
-
+#123
 # code ghép
 myAge = input()
 print('You will be ' + str(int(myAge) + 1) + ' in a year.')
