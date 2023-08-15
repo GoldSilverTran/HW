@@ -1,0 +1,5 @@
+# x=input()
+# print ('x= ' + str(x))
+print ('x= ' + input())
+x=input()
+print ('=> x/10= ' + x/10)
